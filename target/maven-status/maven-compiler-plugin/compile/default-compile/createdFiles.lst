@@ -1,0 +1,9 @@
+hello\Person.class
+hello\FileUploadController.class
+hello\storage\StorageException.class
+hello\storage\FileSystemStorageService.class
+hello\storage\StorageProperties.class
+hello\WebController.class
+hello\storage\StorageFileNotFoundException.class
+hello\Application.class
+hello\storage\StorageService.class
